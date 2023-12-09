@@ -1,5 +1,16 @@
 <h1 align="center" id="title">Jobtex - a find jobs website</h1>
 
+## Used for :
+
+- html5
+- css3
+- Tailwindcss
+- Firebase
+- React
+- MongoDB
+- Node.js
+- Express
+
 <h2>🚀 Live Link</h2>
 
 [https://jobtex-b1ccd.web.app/](https://jobtex-b1ccd.web.app/)
